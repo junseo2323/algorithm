@@ -8,3 +8,11 @@ Git push 연습을 위해서도 사용되고 있습니다.
 
 https://www.acmicpc.net/user/hunseol03
 
+#git commit -m "리드미를 읽어주세요!"
+
+#git branch -M main
+
+#git remote add origin https://github.com/junseo2323/algorithm.git
+
+#git push -u origin main
+
